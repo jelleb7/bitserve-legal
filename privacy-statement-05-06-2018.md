@@ -1,6 +1,7 @@
-BITServe BITServe, gevestigd aan Parelstraat 28, Groningen, is verantwoordelijk voor de verwerking van persoonsgegevens zoals weergegeven in deze privacyverklaring.
+*BITServe*
+BITServe, gevestigd aan Parelstraat 28, Groningen, is verantwoordelijk voor de verwerking van persoonsgegevens zoals weergegeven in deze privacyverklaring.
 
-Contactgegevens:
+<b>Contactgegevens</b>
 Adres: Parelstraat 28, Groningen 
 Telefoon: +31625296929
 Email: info@bitserve.nl
