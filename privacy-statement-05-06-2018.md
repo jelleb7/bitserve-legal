@@ -3,8 +3,8 @@
 BITServe, gevestigd aan Parelstraat 28, Groningen, is verantwoordelijk voor de verwerking van persoonsgegevens zoals weergegeven in deze privacyverklaring.
 
 # Contactgegevens
-Adres: Parelstraat 28, Groningen 
-Telefoon: +31625296929
+Adres: Parelstraat 28, Groningen
+Telefoon: +31625296929 
 Email: info@bitserve.nl
 
 Jelle Bakker is de Functionaris Gegevensbescherming van BITServe. Hij/zij is te bereiken via info@bitserve.nl
